@@ -15,7 +15,7 @@ action "Lint" {
 }
 
 action "Test" {
-  needs = "Install"
+  needs = "Lint"
   uses = "Borales/actions-yarn@master"
   args = "test"
 }
