@@ -4,8 +4,9 @@ Opinionated TypeScript Application Development template
 
 ## setup
 execute below commands on project root dir.
-> yarn install
-> code .
+
+    yarn install
+    code .
 
 # Altanatives
 
@@ -28,3 +29,8 @@ execute below commands on project root dir.
 ## Lint
 
 * [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)
+
+
+## Logger
+
+* [winston](https://github.com/winstonjs/winston)
