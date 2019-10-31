@@ -11,7 +11,7 @@ jobs:
       - run: python --version
       - uses: borales/actions-yarn@v2.0.0
         with:
-          cmd: install deasync
+          cmd: add deasync
       - uses: actions/checkout@master
       - name: set remote url
         run: git remote set-url --push origin https://$GITHUB_ACTOR:${{ secrets.GITHUB_TOKEN }}@github.com/$GITHUB_REPOSITORY
