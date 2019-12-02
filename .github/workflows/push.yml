@@ -2,9 +2,10 @@ on: push
 name: Build on push
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ${{ matrix.os }}
     strategy:
       matrix:
+        os: [ windows-latest, ubuntu-latest ]
         node: [ '12', '10' ]
     steps:
     - uses: actions/checkout@master
