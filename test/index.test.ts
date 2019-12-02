@@ -1,3 +1,4 @@
+import { get } from "@src/index";
 import test, { ExecutionContext } from "ava";
 
 test.before(async (t: ExecutionContext) => {
@@ -5,6 +6,6 @@ test.before(async (t: ExecutionContext) => {
 });
 
 test("test", async (t: ExecutionContext) => {
-  t.is("A", "A");
+  t.is(get().limit, 10);
 });
 

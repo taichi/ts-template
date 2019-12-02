@@ -12,7 +12,7 @@
     "clean:all": "del-cli -f dist .cache",
     "compile": "tsc --project .",
     "lint": "tslint --project .",
-    "start": "ts-node src/index.ts",
+    "start": "ts-node src/main.ts",
     "test": "ava",
     "watch": "ava -w"
   },
