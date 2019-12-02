@@ -23,6 +23,7 @@ jobs:
         restore-keys: |
           ${{ runner.os }}-yarn-
     - run: yarn install
+    - run: yarn audit
     - run: yarn lint
     - run: yarn compile
     - run: yarn test
