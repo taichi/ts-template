@@ -1,20 +1,15 @@
 on: push
-name: Build
+name: Build on push
 jobs:
-  install:
-    name: Install
+  build:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@master
-    - name: Install
-      uses: Borales/actions-yarn@master
+    - uses: actions/setup-node@master
       with:
-        args: install
-    - name: Lint
-      uses: Borales/actions-yarn@master
-      with:
-        args: lint
-    - name: Test
-      uses: Borales/actions-yarn@master
-      with:
-        args: test
+        node-version: '10.x'
+    - run: npm install -g yarn
+    - run: yarn install
+    - run: yarn lint
+    - run: yarn compile
+    - run: yarn test
