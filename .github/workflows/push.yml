@@ -22,4 +22,5 @@ jobs:
     - run: yarn lint
     - run: yarn compile
     - run: yarn test:coverage
-    - run: yarn codecov -t ${{ secrets.CODECOV_TOKEN }}
+    - name: Upload coverage reports
+      run: yarn codecov -t ${{ secrets.CODECOV_TOKEN }}
