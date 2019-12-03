@@ -36,6 +36,10 @@
     "extends": "@istanbuljs/nyc-config-typescript",
     "include": [
       "src"
+    ],
+    "reporter": [
+      "lcov",
+      "text"
     ]
   },
   "dependencies": {
@@ -53,6 +57,7 @@
     "@types/prettier": "1.19.0",
     "@types/source-map-support": "0.5.0",
     "ava": "2.4.0",
+    "codecov": "3.6.1",
     "cpy-cli": "2.0.0",
     "cross-env": "6.0.3",
     "del-cli": "3.0.0",
