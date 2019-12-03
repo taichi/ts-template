@@ -1,4 +1,5 @@
 # ts-template
+[![actions](https://github.com/taichi/ts-template/workflows/Daily%20Build/badge.svg)](https://github.com/taichi/ts-template/actions) [![codecov](https://codecov.io/gh/taichi/ts-template/branch/master/graph/badge.svg)](https://codecov.io/gh/taichi/ts-template)
 
 Opinionated TypeScript Application Development template
 
