@@ -58,7 +58,7 @@
     "@types/source-map-support": "0.5.0",
     "ava": "2.4.0",
     "codecov": "3.6.1",
-    "cpy-cli": "2.0.0",
+    "cpy-cli": "3.0.0",
     "cross-env": "6.0.3",
     "del-cli": "3.0.0",
     "npm-check-updates": "3.2.2",
