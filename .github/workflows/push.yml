@@ -26,8 +26,8 @@ jobs:
       id: reports-exists
       run: test -f coverage && echo "::set-output name=exists::1"
     - name: Upload coverage reports
-      run: actions/upload-artifact@v1
-      if: reports-exists.outputs.exists == 1
+      if: steps.reports-exists.outputs.exists == 1
+      uses: actions/upload-artifact@v1
       with:
         name: coverage-report
         path: coverage
