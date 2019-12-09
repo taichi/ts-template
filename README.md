@@ -9,9 +9,14 @@ execute below commands on project root dir.
     yarn install
     code .
 
-# Altanatives
+# Recommendation of GitHub related services
 
-## package manager
+* [codecov](https://codecov.io/)
+* [renovate](https://renovate.whitesourcesoftware.com/)
+
+# Candidates
+
+## Package manager
 
 * npm
 * [pnpm](https://pnpm.js.org/)
@@ -23,7 +28,7 @@ execute below commands on project root dir.
 * [ncc](https://github.com/zeit/ncc)
 * [rollup.js](https://rollupjs.org/)
 
-## testing framework
+## Testing framework
 
 * [Jest](https://jestjs.io/)
 * [Mocha](https://mochajs.org/)
@@ -32,7 +37,10 @@ execute below commands on project root dir.
 
 * [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)
 
-
 ## Logger
 
 * [winston](https://github.com/winstonjs/winston)
+
+## Streaming
+
+* [RxJS](https://rxjs.dev/)
