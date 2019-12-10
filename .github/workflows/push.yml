@@ -22,7 +22,8 @@ jobs:
     - run: yarn lint
     - run: yarn compile
     - run: yarn test:coverage
-    - name: check coverage reports
+    - name: Check coverage reports
+      if: failure()
       id: reports-exists
       run: (test -d coverage && echo "::set-output name=exists::1") || echo "coverage doesn't exists"
     - name: Upload coverage reports
