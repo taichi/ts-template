@@ -2,6 +2,8 @@
   "recommendations": [
     "ms-vscode.vscode-typescript-tslint-plugin",
     "michelemelluso.gitignore",
-    "EditorConfig.EditorConfig"
+    "EditorConfig.EditorConfig",
+    "humao.rest-client",
+    "chrmarti.regex"    
   ]
 }
