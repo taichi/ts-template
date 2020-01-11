@@ -68,7 +68,7 @@
     "prettier": "1.19.1",
     "sort-package-json": "1.38.3",
     "source-map-support": "0.5.16",
-    "ts-node": "8.6.0",
+    "ts-node": "8.6.1",
     "tsconfig-paths": "3.9.0",
     "tslint": "5.20.1",
     "tslint-config-prettier": "1.18.0",
