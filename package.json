@@ -18,7 +18,6 @@
     "watch": "ava -w"
   },
   "ava": {
-    "compileEnhancements": false,
     "extensions": [
       "ts"
     ],
