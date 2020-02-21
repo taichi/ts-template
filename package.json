@@ -73,7 +73,7 @@
     "tslint-config-prettier": "1.18.0",
     "tslint-microsoft-contrib": "6.2.0",
     "tslint-plugin-prettier": "2.1.0",
-    "typescript": "3.7.5",
+    "typescript": "3.8.2",
     "typescript-tslint-plugin": "0.5.5",
     "typesync": "0.6.1"
   },
