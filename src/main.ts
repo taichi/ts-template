@@ -1,5 +1,7 @@
+import pino from "pino";
 import config from "./config";
 
+const logger = pino();
+
 const retry = config.get("retry");
-// tslint:disable-next-line: no-console
-console.log(retry.limit, retry.wait);
+logger.info(retry);
