@@ -79,6 +79,7 @@
   },
   "resolutions": {
     "https-proxy-agent": "^2.2.3",
-    "serialize-to-js": "^3.0.2"
+    "serialize-to-js": "^3.0.2",
+    "acorn": "^7.1.1"
   }
 }
