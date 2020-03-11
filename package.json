@@ -80,6 +80,7 @@
   "resolutions": {
     "https-proxy-agent": "^2.2.3",
     "serialize-to-js": "^3.0.2",
-    "acorn": "^7.1.1"
+    "acorn": "^7.1.1",
+    "kind-of": "^6.0.3"
   }
 }
