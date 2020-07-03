@@ -6943,10 +6943,10 @@ stream-http@^2.7.2:
     to-arraybuffer "^1.0.0"
     xtend "^4.0.0"
 
-streaming-iterables@^4.1.1:
-  version "4.1.1"
-  resolved "https://registry.yarnpkg.com/streaming-iterables/-/streaming-iterables-4.1.1.tgz#64b14c42c483c9b087a916caf616739cb7f2d3ea"
-  integrity sha512-1KDZL6lgbFEfkFZ4k4eX5GscE9jAhJO+9YP6wrhgLO6VADNQr4pYpbOLV5VLBdlR/fCoEO2aXBjEeb+1aIGXGw==
+streaming-iterables@^5.0.0:
+  version "5.0.1"
+  resolved "https://registry.yarnpkg.com/streaming-iterables/-/streaming-iterables-5.0.1.tgz#e51399e1a6555bb4a081031fc331486670f972b3"
+  integrity sha512-o6s9wMxPM2IyUGmqiVlSXuw6rFr7Zl2l8MAwG5mYVepiXtnzj8A5l8D1yDYgQ7VXlk+aoS0OZNTdGvAGb6OEjw==
 
 string-width@^1.0.1:
   version "1.0.2"
