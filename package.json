@@ -57,7 +57,7 @@
     "@types/pino": "6.3.4",
     "@types/prettier": "2.1.5",
     "@types/source-map-support": "0.5.3",
-    "ava": "3.13.0",
+    "ava": "3.14.0",
     "cpy-cli": "3.1.1",
     "cross-env": "7.0.3",
     "del-cli": "3.0.1",
