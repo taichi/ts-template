@@ -54,7 +54,7 @@
     "@types/convict": "5.2.2",
     "@types/dotenv": "8.2.0",
     "@types/node": "12.12.31",
-    "@types/pino": "6.3.4",
+    "@types/pino": "6.3.5",
     "@types/prettier": "2.1.6",
     "@types/source-map-support": "0.5.3",
     "ava": "3.15.0",
