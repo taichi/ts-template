@@ -65,7 +65,7 @@
     "nyc": "15.1.0",
     "parcel": "1.12.4",
     "prettier": "2.4.1",
-    "sort-package-json": "1.51.0",
+    "sort-package-json": "1.52.0",
     "source-map-support": "0.5.20",
     "ts-node": "10.2.1",
     "tsconfig-paths": "3.11.0",
