@@ -45,7 +45,7 @@
   "dependencies": {
     "convict": "^6.0.0",
     "dotenv": "^10.0.0",
-    "pino": "^6.0.0",
+    "pino": "^7.0.0",
     "pino-pretty": "^7.0.0",
     "streaming-iterables": "^6.0.0"
   },
@@ -54,7 +54,7 @@
     "@types/convict": "6.1.1",
     "@types/dotenv": "8.2.0",
     "@types/node": "16.11.7",
-    "@types/pino": "6.3.12",
+    "@types/pino": "7.0.4",
     "@types/prettier": "2.4.1",
     "@types/source-map-support": "0.5.4",
     "ava": "3.15.0",
