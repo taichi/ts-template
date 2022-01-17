@@ -2831,10 +2831,10 @@ dotenv@*:
   resolved "https://registry.yarnpkg.com/dotenv/-/dotenv-8.2.0.tgz#97e619259ada750eea3e4ea3e26bceea5424b16a"
   integrity sha512-8sJ78ElpbDJBHNeBzUbUVLsqKdccaa/BXF1uPTw3GrvQTBgrQrtObr2mUrE38vzYd8cEv+m/JBfDLioYcfXoaw==
 
-dotenv@^12.0.0:
-  version "12.0.1"
-  resolved "https://registry.yarnpkg.com/dotenv/-/dotenv-12.0.1.tgz#7cd153a503083214381f5365880c6761daab8ab9"
-  integrity sha512-y7t4pLtT2AzgTfmjN5JZXFzDCpYRrqIqPba3OkxngiC1CsibsTcUs86nF7KMmCt1/fYVK1a3VyZ5jnvrADWpWw==
+dotenv@^13.0.0:
+  version "13.0.1"
+  resolved "https://registry.yarnpkg.com/dotenv/-/dotenv-13.0.1.tgz#cf43980abe07accfa5c3ee321fc7ddc551975e96"
+  integrity sha512-u3KAkK+VHk01+D7V6SFtSJl2JScX1Yi4anKsKXS4oT8s8LnL5xgJe7XFAZ1bSsOfAmxU54OwOuhaLv3v70oXgw==
 
 dotenv@^7.0.0:
   version "7.0.0"
