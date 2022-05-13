@@ -55,7 +55,7 @@
     "@types/dotenv": "8.2.0",
     "@types/node": "16.11.35",
     "@types/pino": "7.0.4",
-    "@types/prettier": "2.6.0",
+    "@types/prettier": "2.6.1",
     "@types/source-map-support": "0.5.4",
     "ava": "4.2.0",
     "cpy-cli": "4.1.0",
