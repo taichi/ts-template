@@ -45,7 +45,7 @@
   "dependencies": {
     "convict": "^6.0.0",
     "dotenv": "^16.0.0",
-    "pino": "^7.0.0",
+    "pino": "^8.0.0",
     "pino-pretty": "^7.0.0",
     "streaming-iterables": "^6.0.0"
   },
