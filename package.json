@@ -53,7 +53,7 @@
     "@istanbuljs/nyc-config-typescript": "1.0.2",
     "@types/convict": "6.1.1",
     "@types/dotenv": "8.2.0",
-    "@types/node": "16.11.46",
+    "@types/node": "16.11.47",
     "@types/pino": "7.0.4",
     "@types/prettier": "2.6.4",
     "@types/source-map-support": "0.5.4",
