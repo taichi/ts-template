@@ -43,7 +43,7 @@
     ]
   },
   "dependencies": {
-    "convict": "^6.0.0",
+    "convict": "^6.2.3",
     "dotenv": "^16.0.0",
     "pino": "^8.0.0",
     "pino-pretty": "^9.0.0",
