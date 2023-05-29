@@ -966,10 +966,10 @@
   resolved "https://registry.yarnpkg.com/@types/color-name/-/color-name-1.1.1.tgz#1c1261bbeaa10a8055bbc5d8ab84b7b2afc846a0"
   integrity sha512-rr+OQyAjxze7GgWrSaJwydHStIhHq2lvY3BOC2Mj7KnzI7XK0Uw1TOOdI9lDoajEbSWLiYgoo4f1R51erQfhPQ==
 
-"@types/convict@6.1.1":
-  version "6.1.1"
-  resolved "https://registry.yarnpkg.com/@types/convict/-/convict-6.1.1.tgz#6752095a7fbf0fb5a50bb0016515a9c987ca5a29"
-  integrity sha512-R+JLaTvhsD06p4jyjUDtbd5xMtZTRE3c0iI+lrFWZogSVEjgTWPYwvJPVf+t92E+yrlbXa4X4Eg9ro6gPdUt4w==
+"@types/convict@6.1.2":
+  version "6.1.2"
+  resolved "https://registry.yarnpkg.com/@types/convict/-/convict-6.1.2.tgz#f1dbb0ac577b33a50a679827c0913650125025f5"
+  integrity sha512-qDdzklmMXJAMx2eHv1S4dwnp+7zpNhVGNTBeFkiM291HA/xMBms9b2kei153X2p00BoRzU+Bhe5Ju3Rv/cnjgg==
   dependencies:
     "@types/node" "*"
 
