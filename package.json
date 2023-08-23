@@ -56,7 +56,7 @@
     "@types/node": "18.17.8",
     "@types/pino": "7.0.4",
     "@types/prettier": "2.7.3",
-    "@types/source-map-support": "0.5.6",
+    "@types/source-map-support": "0.5.7",
     "ava": "4.3.3",
     "cpy-cli": "4.2.0",
     "cross-env": "7.0.3",
