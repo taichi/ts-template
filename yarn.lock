@@ -3742,9 +3742,9 @@ pino@*:
     thread-stream "^0.13.0"
 
 pino@^8.0.0:
-  version "8.15.1"
-  resolved "https://registry.yarnpkg.com/pino/-/pino-8.15.1.tgz#04b815ff7aa4e46b1bbab88d8010aaa2b17eaba4"
-  integrity sha512-Cp4QzUQrvWCRJaQ8Lzv0mJzXVk4z2jlq8JNKMGaixC2Pz5L4l2p95TkuRvYbrEbe85NQsDKrAd4zalf7Ml6WiA==
+  version "8.15.3"
+  resolved "https://registry.yarnpkg.com/pino/-/pino-8.15.3.tgz#8d5d9b440f0218e8c03926d8f2e5bd0854c716eb"
+  integrity sha512-wDds1+DH8VaREe4fpLEKttGnDoLiX3KR3AP5bHsrRwEZ93y+Z/HFC03zkGSxpIGWKDHg24sloVqGcIWoLCkTLQ==
   dependencies:
     atomic-sleep "^1.0.0"
     fast-redact "^3.1.1"
@@ -4175,10 +4175,17 @@ sonic-boom@^2.2.1:
   dependencies:
     atomic-sleep "^1.0.0"
 
-sonic-boom@^3.0.0, sonic-boom@^3.1.0:
+sonic-boom@^3.0.0:
   version "3.3.0"
   resolved "https://registry.yarnpkg.com/sonic-boom/-/sonic-boom-3.3.0.tgz#cffab6dafee3b2bcb88d08d589394198bee1838c"
   integrity sha512-LYxp34KlZ1a2Jb8ZQgFCK3niIHzibdwtwNUWKg0qQRzsDoJ3Gfgkf8KdBTFU3SkejDEIlWwnSnpVdOZIhFMl/g==
+  dependencies:
+    atomic-sleep "^1.0.0"
+
+sonic-boom@^3.1.0:
+  version "3.4.0"
+  resolved "https://registry.yarnpkg.com/sonic-boom/-/sonic-boom-3.4.0.tgz#8582d1385ea3bf79ca953329043bfbdbabe58eb9"
+  integrity sha512-zSe9QQW30nPzjkSJ0glFQO5T9lHsk39tz+2bAAwCj8CNgEG8ItZiX7Wb2ZgA8I04dwRGCcf1m3ABJa8AYm12Fw==
   dependencies:
     atomic-sleep "^1.0.0"
 
