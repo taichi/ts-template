@@ -75,7 +75,7 @@
     "tslint-plugin-prettier": "2.3.0",
     "typescript": "5.8.3",
     "typescript-tslint-plugin": "1.0.2",
-    "typesync": "0.9.2"
+    "typesync": "0.14.3"
   },
   "resolutions": {
     "https-proxy-agent": "^5.0.0",
