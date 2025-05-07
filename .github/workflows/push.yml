@@ -7,7 +7,7 @@ jobs:
     - uses: actions/checkout@master
     - uses: actions/setup-node@master
       with:
-        node-version: '12'
+        node-version: '22'
     - run: npm install -g yarn
     - name: Get yarn cache dir
       id: yarn-cache
