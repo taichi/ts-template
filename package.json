@@ -61,7 +61,7 @@
     "cpy-cli": "5.0.0",
     "cross-env": "7.0.3",
     "del-cli": "6.0.0",
-    "npm-run-all2": "5.0.2",
+    "npm-run-all2": "8.0.1",
     "nyc": "15.1.0",
     "parcel": "2.14.4",
     "prettier": "2.8.8",
