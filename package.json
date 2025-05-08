@@ -78,7 +78,7 @@
     "typesync": "0.14.3"
   },
   "resolutions": {
-    "https-proxy-agent": "^5.0.0",
+    "https-proxy-agent": "^7.0.0",
     "serialize-to-js": "^3.0.2",
     "acorn": "^8.0.0",
     "kind-of": "^6.0.3"
