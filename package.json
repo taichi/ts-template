@@ -58,7 +58,7 @@
     "@types/prettier": "2.7.3",
     "@types/source-map-support": "0.5.10",
     "ava": "4.3.3",
-    "cpy-cli": "4.2.0",
+    "cpy-cli": "5.0.0",
     "cross-env": "7.0.3",
     "del-cli": "4.0.1",
     "npm-run-all2": "5.0.2",
