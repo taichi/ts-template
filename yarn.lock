@@ -3594,9 +3594,9 @@ pino@*:
     thread-stream "^0.13.0"
 
 pino@^9.0.0:
-  version "9.12.0"
-  resolved "https://registry.yarnpkg.com/pino/-/pino-9.12.0.tgz#976e549cc29e21e5dbf56b47910dc52817dc5a97"
-  integrity sha512-0Gd0OezGvqtqMwgYxpL7P0pSHHzTJ0Lx992h+mNlMtRVfNnqweWmf0JmRWk5gJzHalyd2mxTzKjhiNbGS2Ztfw==
+  version "9.13.0"
+  resolved "https://registry.yarnpkg.com/pino/-/pino-9.13.0.tgz#69ae473653cc0f160320f408e2b71295bbf712da"
+  integrity sha512-SpTXQhkQXekIKEe7c887S3lk3v90Q+/HVRZVyNAhe98PQc++6I5ec/R0pciH8/CciXjCoVZIZfRNicbC6KZgnw==
   dependencies:
     atomic-sleep "^1.0.0"
     on-exit-leak-free "^2.1.0"
