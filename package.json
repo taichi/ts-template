@@ -63,7 +63,7 @@
     "del-cli": "7.0.0",
     "npm-run-all2": "8.0.4",
     "nyc": "17.1.0",
-    "parcel": "2.16.3",
+    "parcel": "2.16.4",
     "prettier": "3.8.1",
     "sort-package-json": "3.6.1",
     "source-map-support": "0.5.21",
