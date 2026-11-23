@@ -3866,10 +3866,10 @@ serialize-error@^7.0.1:
   dependencies:
     type-fest "^0.13.1"
 
-serialize-to-js@^3.0.2:
-  version "3.2.0"
-  resolved "https://registry.yarnpkg.com/serialize-to-js/-/serialize-to-js-3.2.0.tgz#b18802d5f54fecb72e859c098e59e55f61e4cfa3"
-  integrity sha512-gtpOaH4KRMAlqrJ9y4OXpNzU/pf346x7bQrQmdK4Xf4MhJX248BKeXQDLwGlQkknxsk67V6o1lUdQgHcZdU57w==
+serialize-to-js@^4.0.0:
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/serialize-to-js/-/serialize-to-js-4.0.1.tgz#ac74d4f5b12c5a8c031ed888c27ea202ef9b888b"
+  integrity sha512-L66s0lN7u5bwt5yuyi4FrgOm8qB8Mdavgw4KQsiY2Pj1bZphj6JCuDZFYVGYpFal4LnaPbMajca1wNZO6I7YXQ==
 
 set-blocking@^2.0.0:
   version "2.0.0"
